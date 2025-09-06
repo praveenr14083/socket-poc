@@ -1,0 +1,6 @@
+{
+  "devices": {
+    "light": { "name": "Living Room Light", "state": false },
+    "fan": { "name": "Smart Fan", "state": true }
+  }
+}
